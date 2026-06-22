@@ -6,10 +6,18 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kiranreddy0580@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://github.com/kiranreddy58"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/karri-ganesh-ram-kiran-reddy-92589a325/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kiranreddy0580@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/kiranreddy08/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/kiranreddy58">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -125,9 +133,9 @@
 
 ## 🌐 Connect With Me
 
-- LinkedIn: [https://linkedin.com/in/YOUR_LINKEDIN_ID](https://linkedin.com/in/YOUR_LINKEDIN_ID)  
-- GitHub: [https://github.com/kiranreddy58](https://github.com/kiranreddy58)  
-- LeetCode: [https://leetcode.com/YOUR_LEETCODE_USERNAME](https://leetcode.com/YOUR_LEETCODE_USERNAME)  
+- LinkedIn: [Karri Ganesh Ram Kiran Reddy](https://www.linkedin.com/in/karri-ganesh-ram-kiran-reddy-92589a325/)
+- GitHub: [kiranreddy58](https://github.com/kiranreddy58)
+- LeetCode: [kiranreddy08](https://leetcode.com/u/kiranreddy08/)
 - Email: [kiranreddy0580@gmail.com](mailto:kiranreddy0580@gmail.com)
 
 ---
